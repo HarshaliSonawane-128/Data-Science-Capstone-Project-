@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings 
 warnings.filterwarnings('ignore')
-%matplotlib inline 
+
 
 df = pd.read_csv('CAR DETAILS.csv')
 
